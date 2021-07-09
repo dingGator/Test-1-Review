@@ -103,7 +103,14 @@ public class Library {
 			
 			
 	*JUnit.
-
+		************************************************
+		*reference variable   instance of a class:
+		*  		Restaurant favLunch = new Restaurant();
+		*		favLunch.setRating       member access operator  "."
+		*
+		*	Autoboxing 
+		*section7.15.3
+		*
 				
 	 */
     public boolean someLibraryMethod() {
